@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1711561913 source:c:\users\megas\documents\programming\c++\de otros\pragmatic programmer book\rectangular room\solonumeros.cpp
+	<iostream>
+	<vector>
+	<string>
+	"SoloNumeros.h"
+
+1711468651 c:\users\megas\documents\programming\c++\de otros\pragmatic programmer book\rectangular room\solonumeros.h
+	<string>
+	<iostream>
+
+1713543142 source:c:\users\megas\documents\programming\c++\de otros\pragmatic programmer book\rectangular room\main.cpp
+	<iostream>
+	"SoloNumeros.h"
+	<vector>
+

@@ -1,0 +1,50 @@
+Alabama	AL	0.04
+Alaska	AK	0.00
+Arizona	AZ	0.06
+Arkansas	AR	0.07
+California	CA	0.07
+Colorado	CO	0.03
+Connecticut	CT	0.06
+Delaware	DE	0.00
+Florida	FL	0.06
+Georgia	GA	0.04
+Hawaii	HI	0.04
+Idaho	ID	0.06
+Illinois	IL	0.06
+Indiana	IN	0.07
+Iowa	IA	0.06
+Kansas	KS	0.07
+Kentucky	KY	0.06
+Louisiana	LA	0.04
+Maine	ME	0.06
+Maryland	MD	0.06
+Massachusetts	MA	0.06
+Michigan	MI	0.06
+Minnesota	MN	0.07
+Mississippi	MS	0.07
+Missouri	MO	0.04
+Montana	MT	0.00
+Nebraska	NE	0.06
+Nevada	NV	0.07
+New Hampshire	NH	0.00
+New Jersey	NJ	0.07
+New Mexico	NM	0.05
+New York	NY	0.04
+North Carolina	NC	0.05
+North Dakota	ND	0.05
+Ohio	OH	0.06
+Oklahoma	OK	0.05
+Oregon	OR	0.00
+Pennsylvania	PA	0.06
+Rhode Island	RI	0.07
+South Carolina	SC	0.06
+South Dakota	SD	0.04
+Tennessee	TN	0.07
+Texas	TX	0.06
+Utah	UT	0.06
+Vermont	VT	0.06
+Virginia	VA	0.05
+Washington	WA	0.07
+West Virginia	WV	0.06
+Wisconsin	WI	0.05
+Wyoming	WY	0.04

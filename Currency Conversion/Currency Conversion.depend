@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1715708777 source:c:\users\megas\documents\programming\c++\de otros\pragmatic programmer book\currency conversion\solonumeros.cpp
+	<iostream>
+	<vector>
+	<string>
+	"SoloNumeros.h"
+
+1715708791 c:\users\megas\documents\programming\c++\de otros\pragmatic programmer book\currency conversion\solonumeros.h
+	<string>
+	<iostream>
+

@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1709656936 source:c:\users\megas\documents\programming\c++\de otros\retirement calculator\solonumeros.cpp
+	<iostream>
+	<vector>
+	<string>
+	"SoloNumeros.h"
+
+1709660357 c:\users\megas\documents\programming\c++\de otros\retirement calculator\solonumeros.h
+	<string>
+	<iostream>
+
+1709753088 source:c:\users\megas\documents\programming\c++\de otros\retirement calculator\main.cpp
+	<iostream>
+	"SoloNumeros.h"
+	<ctime>
+	<string>
+	<ctype.h>
+

@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1731339821 source:c:\users\megas\documents\programming\c++\de otros\pragmatic programmer book\tax calculator\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	"SoloNumeros.h"
+	<bits/stdc++.h>
+
+1726607057 source:c:\users\megas\documents\programming\c++\de otros\pragmatic programmer book\tax calculator\solonumeros.cpp
+	<iostream>
+	<vector>
+	<string>
+	"SoloNumeros.h"
+
+1726607328 c:\users\megas\documents\programming\c++\de otros\pragmatic programmer book\tax calculator\solonumeros.h
+	<string>
+	<iostream>
+

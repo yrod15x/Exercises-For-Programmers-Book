@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1720122659 source:c:\users\megas\documents\programming\c++\de otros\pragmatic programmer book\exe10-selfcheckput\caja.cpp
+	"caja.h"
+	<vector>
+	<iostream>
+	"SoloNumeros.h"
+	<ctype.h>
+
+1720123791 c:\users\megas\documents\programming\c++\de otros\pragmatic programmer book\exe10-selfcheckput\caja.h
+	<vector>
+
+1715708791 c:\users\megas\documents\programming\c++\de otros\pragmatic programmer book\exe10-selfcheckput\solonumeros.h
+	<string>
+	<iostream>
+
+1715708777 source:c:\users\megas\documents\programming\c++\de otros\pragmatic programmer book\exe10-selfcheckput\solonumeros.cpp
+	<iostream>
+	<vector>
+	<string>
+	"SoloNumeros.h"
+
+1720121956 source:c:\users\megas\documents\programming\c++\de otros\pragmatic programmer book\exe10-selfcheckput\main.cpp
+	<iostream>
+	"caja.h"
+

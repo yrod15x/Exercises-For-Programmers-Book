@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1706022832 source:c:\users\megas\documents\programming\c++\de otros\mad libs generator\madlibs.cpp
+	"madlibs.h"
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+
+1706022741 c:\users\megas\documents\programming\c++\de otros\mad libs generator\madlibs.h
+	<string>
+	<vector>
+
+1706022741 source:c:\users\megas\documents\programming\c++\de otros\mad libs generator\main.cpp
+	<iostream>
+	"madlibs.h"
+	<string>
+
