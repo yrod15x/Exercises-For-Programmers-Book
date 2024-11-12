@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1714491570 source:c:\users\megas\documents\programming\c++\de otros\pizza party\solonumeros.cpp
+	<iostream>
+	<vector>
+	<string>
+	"SoloNumeros.h"
+
+1711468651 c:\users\megas\documents\programming\c++\de otros\pizza party\solonumeros.h
+	<string>
+	<iostream>
+
+1715707356 source:c:\users\megas\documents\programming\c++\de otros\pizza party\main.cpp
+	<iostream>
+	"SoloNumeros.h"
+

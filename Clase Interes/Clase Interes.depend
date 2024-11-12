@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1726677345 source:c:\users\megas\documents\programming\c++\unidades c++\unidad 10 - clases\clase interes\main.cpp
+	<iostream>
+	"interes.h"
+
+1726677317 source:c:\users\megas\documents\programming\c++\unidades c++\unidad 10 - clases\clase interes\interes.cpp
+	"interes.h"
+	<iostream>
+	"SoloNumeros.h"
+	<cmath>
+
+1726677137 c:\users\megas\documents\programming\c++\unidades c++\unidad 10 - clases\clase interes\interes.h
+
+1726610657 source:c:\users\megas\documents\programming\c++\unidades c++\unidad 10 - clases\clase interes\solonumeros.cpp
+	<iostream>
+	<vector>
+	<string>
+	"SoloNumeros.h"
+
+1726610928 c:\users\megas\documents\programming\c++\unidades c++\unidad 10 - clases\clase interes\solonumeros.h
+	<string>
+	<iostream>
+
